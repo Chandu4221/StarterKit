@@ -1,0 +1,26 @@
+{
+  "name": "starterkit",
+  "description": "Starter Kit with HTML Nunjucks HTML Templating Engine and Gulp Sass",
+  "main": "index.js",
+  "authors": [
+    "Chandra Shekhar"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "nunjucks",
+    "template",
+    "gulp",
+    "sass",
+    "starter",
+    "kit"
+  ],
+  "homepage": "https://github.com/Chandu4221/StarterKit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
